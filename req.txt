@@ -1,0 +1,16 @@
+
+colorama==0.4.3
+numpy==1.18.5
+scikit_learn==0.23.2
+Flask
+Flask-Cors
+gast==0.4.0
+gevent==20.9.0
+greenlet==0.4.17
+grpcio==1.34.0
+gunicorn==20.0.4
+threadpoolctl==2.1.0
+uWSGI==2.0.19.1
+Werkzeug
+pandas
+bs4
